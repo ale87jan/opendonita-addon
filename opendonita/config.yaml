@@ -26,4 +26,4 @@ ports_description:
   1900/udp: "SSDP discovery"
 map:
   - config:rw
-image: "ghcr.io/jmservera/{arch}-addon-opendonita"
+#image: "ghcr.io/jmservera/{arch}-addon-opendonita"
